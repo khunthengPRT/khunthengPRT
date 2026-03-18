@@ -9,7 +9,7 @@ I build and operate private mobile networks while crafting seamless web experien
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Wireless & Networking** | 5GNR, RAN (FlexRAN/OAI), Open5GS, 40MHz Cross Frequency |
+| **Wireless & Networking** | 5GNR, RAN (FlexRAN/OAI), Open5GS |
 | **Backend & Systems** | Python, C/C++, Bash Scripting, Linux Admin (KVM/Docker) |
 | **Web Development** | Laravel, Vite, Bun, Tailwind CSS |
 | **Infrastructure** | Network Namespaces, Core Optimization (TidyCPU), VirtualBox |
