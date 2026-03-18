@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Rithea 👋
 
-<!--
-**khunthengPRT/khunthengPRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📡 5G/RAN Engineer & Full Stack Developer
+I build and operate private mobile networks while crafting seamless web experiences. I'm passionate about the intersection of **Radio Access Networks**, **Linux Systems**, and **Modern Web Architecture**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Wireless & Networking** | 5GNR, RAN (FlexRAN/OAI), Open5GS, 40MHz Cross Frequency |
+| **Backend & Systems** | Python, C/C++, Bash Scripting, Linux Admin (KVM/Docker) |
+| **Web Development** | Laravel, Vite, Bun, Tailwind CSS |
+| **Infrastructure** | Network Namespaces, Core Optimization (TidyCPU), VirtualBox |
+
+---
+
+### 🏗️ What I'm Working On
+- 🗼 **Local 5G Systems:** Scaling and optimizing private RAN environments.
+- 🌐 **Sabaai-Japanese:** Developing a specialized app for natural Japanese pronunciation.
+- ⚡ **TidyCPU:** Building a Linux tool to manage and optimize processor core affinity.
+- 🇯🇵 **Language Goals:** Currently leveling up my Japanese proficiency (N3/N2 track).
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](Your-Link-Here)
+- 📝 [Portfolio/Blog](Your-Link-Here)
+- 💬 Ask me about: **5G Core, Laravel migrations, or Japanese Pitch Accent.**
