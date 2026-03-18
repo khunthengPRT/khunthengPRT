@@ -18,19 +18,18 @@ I build and operate private mobile networks while crafting seamless web experien
 
 ### 🏗️ What I'm Working On
 - 🗼 **Local 5G Systems:** Scaling and optimizing private RAN environments.
-- 🌐 **Sabaai-Japanese:** Developing a specialized app for natural Japanese pronunciation.
 - ⚡ **TidyCPU:** Building a Linux tool to manage and optimize processor core affinity.
-- 🇯🇵 **Language Goals:** Currently leveling up my Japanese proficiency (N3/N2 track).
+- 🇯🇵 **Language Goals:** Currently leveling up my Japanese proficiency (N3 on the way to N2).
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[khunthengPRT]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[khunthengPRT]&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](Your-Link-Here)
 - 📝 [Portfolio/Blog](Your-Link-Here)
-- 💬 Ask me about: **5G Core, Laravel migrations, or Japanese Pitch Accent.**
+- 💬 Ask me about: **5G Core, Laravel migrations, or Japanese proficieny though I am still an N3.**
