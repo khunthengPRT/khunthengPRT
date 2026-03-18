@@ -35,6 +35,5 @@ Not yet any serious...
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](Your-Link-Here)
-- 📝 [Portfolio/Blog](Your-Link-Here)
+- 💼 [LinkedIn](www.linkedin.com/in/puthirithea-k-369965a5)
 - 💬 Ask me about: **5G Core, Laravel migrations, or Japanese proficieny though I am still an N3.**
