@@ -1,7 +1,11 @@
 # Hi there, I'm Rithea 👋
 
-### 📡 5G/RAN Engineer & Full Stack Developer
-I build and operate private mobile networks while crafting seamless web experiences. I'm passionate about the intersection of **Radio Access Networks**, **Linux Systems**, and **Modern Web Architecture**.
+### 📡 5G/RAN R&D engineer
+I build and operate private mobile networks and a tiny teeny bit of **Radio Access Networks**, **Linux Systems**, and **Modern Web Architecture**.
+Little bit of bash
+Little bit of Python
+Little bit of C
+Not yet any serious...
 
 ---
 
@@ -19,6 +23,7 @@ I build and operate private mobile networks while crafting seamless web experien
 ### 🏗️ What I'm Working On
 - 🗼 **Local 5G Systems:** Scaling and optimizing private RAN environments.
 - ⚡ **TidyCPU:** Building a Linux tool to manage and optimize processor core affinity.
+- ⚡ **BashBookmark** Bookmarking all my history linux command and can be searched fast
 - 🇯🇵 **Language Goals:** Currently leveling up my Japanese proficiency (N3 on the way to N2).
 
 ---
