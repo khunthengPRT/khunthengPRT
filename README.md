@@ -26,11 +26,6 @@ Not yet any serious...
 - ⚡ **BashBookmark** Bookmarking all my history linux command and can be searched fast
 - 🇯🇵 **Language Goals:** Currently leveling up my Japanese proficiency (N3 on the way to N2).
 
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khunthengPRT&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khunthengPRT&layout=compact&theme=radical)
 
 ---
 
