@@ -2,10 +2,7 @@
 
 ### 📡 5G/RAN R&D engineer
 I build and operate private mobile networks and a tiny teeny bit of **Radio Access Networks**, **Linux Systems**, and **Modern Web Architecture**.
-Little bit of bash
-Little bit of Python
-Little bit of C
-Not yet any serious...
+Vibe coding with Python scripts to help my life easier.
 
 ---
 
